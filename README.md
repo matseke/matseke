@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matseke
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: mats.ekelund at gmail.com
 
